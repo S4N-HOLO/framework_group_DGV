@@ -1,0 +1,15 @@
+C:\Users\пипка\source\repos\Списки ver_2\bin\Debug\Списки ver_2.exe.config
+C:\Users\пипка\source\repos\Списки ver_2\bin\Debug\Списки ver_2.exe
+C:\Users\пипка\source\repos\Списки ver_2\bin\Debug\Списки ver_2.pdb
+C:\Users\пипка\source\repos\Списки ver_2\obj\Debug\Списки ver_2.csprojAssemblyReference.cache
+C:\Users\пипка\source\repos\Списки ver_2\obj\Debug\Списки_ver_2.Form1.resources
+C:\Users\пипка\source\repos\Списки ver_2\obj\Debug\Списки_ver_2.Properties.Resources.resources
+C:\Users\пипка\source\repos\Списки ver_2\obj\Debug\Списки ver_2.csproj.GenerateResource.cache
+C:\Users\пипка\source\repos\Списки ver_2\obj\Debug\Списки ver_2.exe
+C:\Users\пипка\source\repos\Списки ver_2\obj\Debug\Списки ver_2.pdb
+C:\Users\пипка\source\repos\Списки ver_2\bin\Debug\users.mdb
+C:\Users\пипка\source\repos\Списки ver_2\obj\Debug\Списки_ver_2.Form2.resources
+C:\Users\пипка\source\repos\Списки ver_2\bin\Debug\usersDataSet.Designer.cs
+C:\Users\пипка\source\repos\Списки ver_2\bin\Debug\usersDataSet.xsc
+C:\Users\пипка\source\repos\Списки ver_2\bin\Debug\usersDataSet.xsd
+C:\Users\пипка\source\repos\Списки ver_2\bin\Debug\usersDataSet.xss
